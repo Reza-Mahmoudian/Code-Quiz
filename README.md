@@ -1,7 +1,7 @@
 # Code-Quiz
 
 ## Link to Application
-Click on link to see the deployed website [https://reza-mahmoudian.github.io/My-Portfolio/](https://reza-mahmoudian.github.io/My-Portfolio/)
+Click on link to see the deployed website [https://reza-mahmoudian.github.io/Code-Quiz/](https://reza-mahmoudian.github.io/Code-Quiz/)
 
 
 ## Description
